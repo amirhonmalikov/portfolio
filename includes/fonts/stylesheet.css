@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'ZnikomitNo25';
+    src: url('ZnikomitNo25.woff2') format('woff2'),
+        url('ZnikomitNo25.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE TheArtist Script Extras';
+    src: url('MADETheArtistScriptExtras.woff2') format('woff2'),
+        url('MADETheArtistScriptExtras.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'MADE TheArtist Script';
+    src: url('MADETheArtistScript.woff2') format('woff2'),
+        url('MADETheArtistScript.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
